@@ -30,8 +30,8 @@ function yellAt(name) {
 greeting = greeting + ', ' + name + '!';
 }
 
-yellAt('Jeremy');
-greeting; HEY, Jeremy!
+yellAt('Steve');
+greeting; HEY, Steve!
 /*********************************************************************************************************************
 
  * CODE BELOW HERE IS FOR INTERNAL USE ONLY! IT ENSURES THAT THE TESTING *
